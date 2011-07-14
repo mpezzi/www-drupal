@@ -1,0 +1,1 @@
+This directory should contain sym-links to the ../../local/sites/a.com folder.

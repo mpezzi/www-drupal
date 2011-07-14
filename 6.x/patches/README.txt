@@ -1,0 +1,1 @@
+Any patches you need to apply to core (don't kill kittens!) or contributed code should be placed here.
