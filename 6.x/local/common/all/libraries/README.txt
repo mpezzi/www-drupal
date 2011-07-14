@@ -1,0 +1,1 @@
+Any common, 3rd party libraries for use in modules. e.g. TinyMCE or CKEditor.

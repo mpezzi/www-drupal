@@ -1,0 +1,1 @@
+All community-built modules that have been patched, most commonly downloaded from Drupal.org.

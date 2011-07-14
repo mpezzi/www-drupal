@@ -1,0 +1,1 @@
+This directory should contain your example.com site folder.
