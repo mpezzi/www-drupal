@@ -1,0 +1,1 @@
+Any development-related modules (e.g. Devel, Coder, etc.). Kept separate so that they can be easily excluded from production environments.
