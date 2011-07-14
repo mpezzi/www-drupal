@@ -1,0 +1,1 @@
+../vendor/pressflow/authorize.php
